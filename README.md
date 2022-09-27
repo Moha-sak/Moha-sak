@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Moha-sak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mohamed Isak [@Moha-sak]
+- 👀 I’m interested in backend developing
+- 🌱 I’m currently learning web backend development [php libraries, Js]
+- 💞️ 
 - 📫 How to reach me ...
+Whatsapp: 252618368047
+Email: maxamedyare236@gmail.com
+Facebook Account: https://www.facebook.com/Moha.Sheikh.Isak.Sheikh.Husssein
 
 <!---
 Moha-sak/Moha-sak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
